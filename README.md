@@ -1,10 +1,10 @@
 # SaaS Revenue Protection System (Risk Engine)
 
-### [🔴 Interact with the Live Control Panel (Tableau Public)](https://public.tableau.com/views/SaaSRetentionCommandCenter/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+### [🔴 Interact with the Live Control Panel (Tableau Public)](https://public.tableau.com/views/SaaSRetentionCommandCenter/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[![SaaS Retention Command Center](SaaS%20Retention%20Command%20Center.png)](https://public.tableau.com/views/SaaSRetentionCommandCenter/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![SaaS Dashboard](dashboard.png)](https://public.tableau.com/views/SaaSRetentionCommandCenter/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-*Click the image above to open the interactive dashboard and test the filters.*
+*Click the image above to open the interactive dashboard.*
 
 ---
 
